@@ -2,4 +2,4 @@ Helo
 <?php
 Opo
 ?>
-<a herf=a.xml>a</a>
+<a href=a.xml>a</a>
